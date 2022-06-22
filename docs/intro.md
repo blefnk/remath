@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Math Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **math from zero to hero** together! 🚀
 
 ## Getting Started
 
