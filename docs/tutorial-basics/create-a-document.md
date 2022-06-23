@@ -2,7 +2,32 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Operations
+
+The basic operations used in mathematics are addition, subtraction, multiplication, and division.
+
+In addition to these operations, there are also ratio operations such as: equal (=), more (>), less (<), more or equal (≥), less or equal (≤), not equal (≠).
+
+In general, operations can be divided into two kinds:
+
+    action operations;
+    relation operations.
+
+Action operations are:
+
+    addition (+)
+    subtraction (-)
+    multiplication (×)
+    division ( ÷ ).
+
+The operations of a relation are:
+
+    equal (=)
+    more (>)
+    less (<)
+    more or equal (≥)
+    less or equal (≤)
+    not equal (≠)
 
 Documents are **groups of pages** connected through:
 
